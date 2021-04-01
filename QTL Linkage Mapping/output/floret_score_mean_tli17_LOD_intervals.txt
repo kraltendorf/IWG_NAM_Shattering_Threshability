@@ -1,0 +1,11 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	CP	2_CP	55.287	77.539	86.135	CP_Chr02_338749407	12.37	combined	NA	NA	NA	NA	floret_score_mean	tli	2017
+2	DP	2_DP	66.327	77.878	109.684	NA	9.21	combined	NA	NA	NA	NA	floret_score_mean	tli	2017
+2	CP	2_CP	41.287	76.803	102.612	CP_Chr02_343055305	3.57	WGN38	14.6	1.1424585	0.3754015	NA	floret_score_mean	tli	2017
+5	CP	5_CP	0	10.402	16.5	NA	16.89	combined	NA	NA	NA	NA	floret_score_mean	tli	2017
+5	CP	5_CP	0	11.402	19.5	NA	4.3	WGN45	15.3	1.1459675	-0.3141425	NA	floret_score_mean	tli	2017
+8	CP	8_CP	49.516	61.135	73.517	CP_Chr08_317351181	3.5	WGN45	10.5	1.1513565	0.2593135	NA	floret_score_mean	tli	2017
+11	CP	11_CP	104.437	109.193	117.287	NA	21.73	combined	NA	NA	NA	NA	floret_score_mean	tli	2017
+11	CP	11_CP	85.565	109.193	109.193	NA	4.21	WGN36	15.4	1.1100495	-0.3630405	NA	floret_score_mean	tli	2017
+11	CP	11_CP	94.595	113.325	113.325	CP_Chr11_234190857	4.47	WGN45	15.8	1.126539	-0.316261	NA	floret_score_mean	tli	2017
+19	CP	19_CP	112.76	129.504	141.716	CP_Chr19_561090027	3.98	WGN38	12.4	1.107422	0.333178	NA	floret_score_mean	tli	2017

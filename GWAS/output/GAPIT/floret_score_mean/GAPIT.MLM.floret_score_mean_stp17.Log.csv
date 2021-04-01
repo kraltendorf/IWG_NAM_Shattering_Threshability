@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1139", "2")
+group.by ,20
+Trait name ,MLM.floret_score_mean_stp17
+Kinship,1139:1140
+Z Matrix,c(1140, 1140)
+Covariate,c(1139, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1139
+group.to ,1139

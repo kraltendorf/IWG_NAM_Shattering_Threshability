@@ -1,0 +1,5 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+1	CP	1_CP	53.057	59.822	62.381	CP_Chr01_410726049	12.71	combined	NA	NA	NA	NA	rachis_breaks_mean	stp	2018
+8	CP	8_CP	105.414	111.578	119.214	CP_Chr08_23347234	9.73	combined	NA	NA	NA	NA	rachis_breaks_mean	stp	2018
+8	DP	8_DP	90.647	98.228	116.19	NA	11.08	combined	NA	NA	NA	NA	rachis_breaks_mean	stp	2018
+8	DP	8_DP	90.647	98.228	121.783	NA	6.26	WGN45	23.3	0.6212495	NA	0.3308725	rachis_breaks_mean	stp	2018

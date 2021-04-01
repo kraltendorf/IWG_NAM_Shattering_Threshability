@@ -1,0 +1,5 @@
+lg	map	group	left	center	right	max_lod	locus	famID	r2	mu	alpha	gamma	trait	env	year
+6	DP	6_DP	45.535	76.8	137.287	2.8	DP_Chr06_300299340	WGN55	11.6	1.50085	NA	-0.05542	threshability	tli	2018
+11	CP	11_CP	125.796	101.437	0	2.05	CP_Chr11_228740879	WGN45	8.9	1.51933	0.04228	NA	threshability	tli	2018
+13	DP	13_DP	171.267	63.815	0	1.84	DP_Chr13_252462690	WGN39	8.6	1.50901	NA	0.04627	threshability	tli	2018
+21	DP	21_DP	8.22	56.995	82.379	3.6	DP_Chr21_101931494	WGN38	17.4	1.49979	NA	0.0475099999999999	threshability	tli	2018

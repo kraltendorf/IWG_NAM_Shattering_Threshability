@@ -1,0 +1,4 @@
+trait	min	max	mean	sd	min	max	mean	sd	min	max	mean	sd	min	max	mean	sd
+rachis_breaks_mean	-0.01	2.5	0.8	0.46	-0.02	3.5	0.78	0.65	-0.01	3.5	0.58	0.56	-0.03	1.5	0.06	0.2
+floret_score_mean	-0.05	7	1.26	1.42	-0.01	7.99	1.16	1.16	-0.02	4.02	1.36	0.96	-0.02	1.98	0.03	0.14
+threshability	17.43	100	91.05	11.08	7.3	100	85.63	15.81	8.97	98.97	77.03	15.39	10.34	100	98.49	6.94

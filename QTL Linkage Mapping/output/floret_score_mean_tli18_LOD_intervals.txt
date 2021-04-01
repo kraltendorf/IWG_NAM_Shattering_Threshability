@@ -1,0 +1,2 @@
+lg	map	group	left	center	right	max_lod	locus	famID	r2	mu	alpha	gamma	trait	env	year
+15	DP	15_DP	74.928	124.041	124.041	3.32	NA	WGN46	12.2	0.068462625	NA	0.062929375	floret_score_mean	tli	2018

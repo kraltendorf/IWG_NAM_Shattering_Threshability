@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1007", "2")
+group.by ,20
+Trait name ,MLM.threshability_tli18
+Kinship,1007:1008
+Z Matrix,c(1008, 1008)
+Covariate,c(1007, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1007
+group.to ,1007

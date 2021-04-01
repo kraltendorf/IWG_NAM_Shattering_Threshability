@@ -1,0 +1,4 @@
+trait	broad_STP	narrow_STP	broad_TLI	narrow_TLI
+rachis_breaks_mean	0.49	0.15	0.42	0.13
+floret_score_mean	0.83	0.52	0.65	0.34
+threshability	0.91	0.49	0.91	0.4
